@@ -12,7 +12,8 @@ d’améliorer les performances.
 
 # Objectif
 
-- Faire des prévisions à l'aide des modèles  classique et récents
+- Faire des prévisions à l'aide des modèles  classique: Auto ARIMA, Prophet, Xgboost, Tbeats
+- Faire des prévisions à l'aide des modèles récents: Nbeats, Tft, DeepAR
 - Comparer les resultats de prévisions sur les modèles classiques et récents
 
 # Contenu du repositiry:
